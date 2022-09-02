@@ -1,2 +1,2 @@
 # Training-Days-JS
-From Codecademy great for scope understanding
+Created when studying on Codecademy great for scope understanding
